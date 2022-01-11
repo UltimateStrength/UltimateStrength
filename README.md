@@ -8,18 +8,20 @@
 
 <div align="center">
   
+  ![](https://discord.c99.nl/widget/theme-2/589150408736243737.png)
+  
   <a href="https://github.com/UltimateStrength">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=UltimateStrength&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UltimateStrength&layout=compact&langs_count=7&theme=gotham"/>
-</div>
+  </div>
 
 ----------------------------------------
 
 ## | Progamador nas Areas de |
-
+  
 <div align="center">
   
-<img height="40" src="https://play-lh.googleusercontent.com/BPaLpeUvfmoqAtxKbzOZP8uJgRN9ANvUMY5GYeQAyMzsKOOB9OSu88xaH7y-jFzDfVk">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="40" src="https://logospng.org/download/javascript/logo-javascript-icon-1024.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="40" src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="40" src="https://logospng.org/download/css-3/logo-css-3-2048.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://play-lh.googleusercontent.com/BPaLpeUvfmoqAtxKbzOZP8uJgRN9ANvUMY5GYeQAyMzsKOOB9OSu88xaH7y-jFzDfVk" width = "40px">](https://github.com/nilpointer-software)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://logospng.org/download/javascript/logo-javascript-icon-1024.png" width = "40px">](https://www.javascript.com/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" width = "40px">](https://www.w3schools.com/html/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://logospng.org/download/css-3/logo-css-3-2048.png" width = "40px">](https://www.w3.org/Style/CSS/Overview.en.html)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 ----------------------------------------
@@ -29,7 +31,6 @@
 <div align="center">
   
 [<img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png" width = "40px">](https://discord.com/invite/xTWvpSX)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Steam_Logo.png" width = "40px">](https://steamcommunity.com/id/finisautempotentiae/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width = "40px">](https://instagram.com/ultimatestrength99)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://www.danoneinstitute.org/wp-content/uploads/2020/06/logo-rond-twitter.png" width = "40px">](https://twitter.com/jessemarcos136)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    
 </div>
 
 ----------------------------------------
