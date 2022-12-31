@@ -13,6 +13,8 @@
   <a href="https://github.com/UltimateStrength">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=UltimateStrength&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UltimateStrength&layout=compact&langs_count=7&theme=gotham"/>
+    
+   ![poggersnake](https://github.com/UltimateStrength/snake-sunglasses-/blob/main/github-user-contribution.svg)
   </div>
 
 ----------------------------------------
