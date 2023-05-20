@@ -7,11 +7,6 @@
 
 <h4 align="center">Um GameDEV 🎮 como foco principal. Mas que também faz: SISTEMAS ⚙ | DESIGN 📐 | ARTES 🎨 | & | PROGRAMAÇÃO 👨‍💻 num todo!</h3>
 
-<div align="center">  
-  
-![poggersnake](https://github.com/UltimateStrength/snake-sunglasses-/blob/main/github-user-contribution.svg)
-  </div>
-
 ----------------------------------------------------------------------
 
 <div align="center">  
