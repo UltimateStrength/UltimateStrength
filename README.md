@@ -41,8 +41,8 @@
   
   <p align="left">
   <a href="https://discord.com/invite/xTWvpSX" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png" alt="https://discord.com/invite/xTWvpSX" height="40" width="40" /></a>
-  <a href="https://instagram.com/ultimatestrength99" target="blank"><img align="center" src="https://cdn.discordapp.com/emojis/1096860956488913008.webp" alt="ultimatestrength99" height="40" width="40" /></a>
-  <a href="https://twitter.com/jessemarcos16" target="blank"><img align="center" src="https://www.danoneinstitute.org/wp-content/uploads/2020/06/logo-rond-twitter.png" alt="jessemarcos16" height="40" width="40" /></a>
+  <a href="https://www.instagram.com/ultimatestrength99/" target="blank"><img align="center" src="https://cdn.discordapp.com/emojis/1096860956488913008.webp" alt="ultimatestrength99" height="40" width="40" /></a>
+  <a href="https://twitter.com/jessemarcos136" target="blank"><img align="center" src="https://www.danoneinstitute.org/wp-content/uploads/2020/06/logo-rond-twitter.png" alt="jessemarcos136" height="40" width="40" /></a>
   <a href="https://www.youtube.com/@ultimatestrength2752" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/849431723540480010/1109580805279318118/187209.png" alt="ultimatestrength2752" height="40" width="40" /></a>
   <a href="https://stackoverflow.com/users/21932622" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/849431723540480010/1109580335248838755/stackoverflow.png" alt="21932622" height="40" width="40" /></a>
   <a href="https://steamcommunity.com/id/finisautempotentiae/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Steam_Logo.png" alt="21932622" height="40" width="40" /></a>
