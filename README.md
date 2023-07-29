@@ -25,7 +25,7 @@
   
 - 📌 | Meu atual projeto no momento é o Grøn Troldmand [(Clique)](https://ultimate-strength.itch.io/gron-troldmand)
 
-- 🎓 | Atualmente estou aprendendo: **C++ para Arduino** & **C# para Unity**
+- 🎓 | Atualmente estou aprendendo: Java para Jogos/Projetinhos
 
 - 📚 | Nas horas vagas eu programo alguns projetos que gosto, e quando pego uma folga boa participo de gamejams você pode ver meus jogos no meu Itch.io [(Clique)](https://ultimate-strength.itch.io/)
 
