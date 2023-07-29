@@ -57,8 +57,12 @@
   
   <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.discordapp.com/attachments/849431723540480010/1109605978103611433/javascript.png" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.discordapp.com/attachments/849431723540480010/1134877622053109881/68747470733a2f2f6769746c61622e636f6d2f75706c6f6164732f2d2f73797374656d2f67726f75702f6176617461722f31303732303235332f747970657363726970742e706e67.png" alt="typescript" width="40" height="40"/> </a>
+   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://cdn.discordapp.com/attachments/849431723540480010/1134877489567641732/javaicon-1320167912601224138.png" alt="java" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://media.discordapp.net/attachments/849431723540480010/1109605978439164035/python.png?width=203&height=203" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://cdn.discordapp.com/attachments/849431723540480010/1109606241426210837/php-icon-8.png" alt="php" width="40" height="40"/> </a> 
   <a href="https://github.com/nilpointer-software" target="_blank" rel="noreferrer"> <img src="https://cdn.discordapp.com/attachments/849431723540480010/1109606404056170527/Microsoft.png" alt="php" width="40" height="40"/> </a> </p>
   
