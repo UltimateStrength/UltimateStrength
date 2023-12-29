@@ -23,9 +23,9 @@
 
 <div align="left">  
   
-- 📌 | Meu atual projeto no momento é o Grøn Troldmand [(Clique)](https://ultimate-strength.itch.io/gron-troldmand)
+- 📌 | Meu atual projeto no momento é o Bonda the Game (Ainda sem versão alfa)
 
-- 🎓 | Atualmente estou aprendendo: Java para Jogos/Projetinhos
+- 🎓 | Atualmente estou aprendendo: Assembly para Desenvolvimento de Sistemas Operacionais
 
 - 📚 | Nas horas vagas eu programo alguns projetos que gosto, e quando pego uma folga boa participo de gamejams você pode ver meus jogos no meu Itch.io [(Clique)](https://ultimate-strength.itch.io/)
 
