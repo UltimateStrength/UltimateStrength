@@ -5,3 +5,5 @@
   ![](https://discord.c99.nl/widget/theme-2/589150408736243737.png)
 ![GitHub Snake](https://raw.githubusercontent.com/UltimateStrength/UltimateStrength/refs/heads/output/github-snake-dark.svg)
 </div>
+
+obs: removi muita coisa daqui, mas uma hora coloco de novo kkkk
