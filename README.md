@@ -22,12 +22,12 @@
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/marcos-ulti">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
 <a href="https://x.com/jessemarcos136">
 <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/marcos-ulti">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
