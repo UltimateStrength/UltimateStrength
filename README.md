@@ -1,11 +1,11 @@
 <h1 align="center">
-  >_ Prazer 👋 "Marcos" aka Ulti ();
+  >_ Yo! I'm Marcos aka Ulti. ();
   <img src="https://komarev.com/ghpvc/?username=ultimatestrength&label=Profile%20views&color=0e75b6&style=flat"/>
 
 </h1>
 
 <blockquote>
-<p align="center"><i>Um programador e entusiasta de café nas horas vagas!</i> ☕</p>
+<p align="center"><i>A programmer and coffee enthusiast in his spare time!</i> ☕</p>
 </blockquote>
 
   <p align="center">
@@ -14,7 +14,7 @@
 </a>
 </p>
 
-<h2 align="center">🌐 Socials</h2>
+<h2 align="center">🌐 Find me</h2>
 
 <p align="center">
 
