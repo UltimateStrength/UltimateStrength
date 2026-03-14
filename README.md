@@ -14,7 +14,7 @@
 </a>
 </p>
 
-<h2 align="center">🌐 Find me</h2>
+<h2 align="center">Find me 🙃</h2>
 
 <p align="center">
 
@@ -36,7 +36,7 @@
 <img src="https://discord.c99.nl/widget/theme-2/589150408736243737.png"/>
 </p>
 
-<h2 align="center">💻 Tech Stack</h2>
+<h2 align="center">Learning... (tech stack) 📚</h2>
 
 <p align="center">
 
@@ -63,7 +63,7 @@
 
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">Github stuff 📋</h2>
 
 <div align="center">
 
