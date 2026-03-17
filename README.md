@@ -2,12 +2,15 @@
 
 <h1 align="center">
   >_ Yo! I'm Marcos aka Ulti. ();
-  <img src="https://komarev.com/ghpvc/?username=ultimatestrength&label=Profile%20views&color=0e75b6&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=ultimatestrength&label=Profile%20views&color=0e75b6&style=flat-square"/>
 </h1>
 
 <blockquote>
 <p align="center"><i>A programmer and coffee enthusiast in his spare time!</i> ☕</p>
 </blockquote>
+
+About:
+Sou Marcos, um estudante de Análise 
 
 <p align="center">
 <a href="https://buymeacoffee.com/marcos.ulti">
