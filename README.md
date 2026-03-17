@@ -9,9 +9,6 @@
 <p align="center"><i>A programmer and coffee enthusiast in his spare time!</i> ☕</p>
 </blockquote>
 
-About:
-Sou Marcos, um estudante de Análise 
-
 <p align="center">
 <a href="https://buymeacoffee.com/marcos.ulti">
 <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
