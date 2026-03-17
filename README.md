@@ -1,3 +1,5 @@
+<img src="https://i.imgur.com/dCeqEGx.png">
+
 <h1 align="center">
   >_ Yo! I'm Marcos aka Ulti. ();
   <img src="https://komarev.com/ghpvc/?username=ultimatestrength&label=Profile%20views&color=0e75b6&style=flat"/>
