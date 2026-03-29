@@ -98,16 +98,15 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ultimatestrength&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ultimatestrength&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact"/>
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ultimatestrength&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ultimatestrength&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br>
 
-<img height="165" src="https://nirzak-streak-stats.vercel.app/?user=ultimatestrength&theme=github_dark&hide_border=true"/>
+<img height="165" src="https://streak-stats.demolab.com?user=ultimatestrength&theme=tokyonight&hide_border=true"/>
 
 </div>
-
-<br>
 
 <div align="center">
 
