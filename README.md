@@ -9,6 +9,14 @@
 <p align="center"><i>A programmer and coffee enthusiast in his spare time!</i> ☕</p>
 </blockquote>
 
+<!-- fica pra dps isso aqui
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=ff9ecb&size=22&center=true&vCenter=true&width=1000&speed=40&pause=400&lines=Pixel+Artist;Software+Entusiast;Image+Editor;Translator;Game+Developer;Hardware+Entusiast;Video+Editor"/>
+  </a>
+</p>
+-->
+
 <p align="center">
 <a href="https://buymeacoffee.com/marcos.ulti">
 <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
