@@ -118,4 +118,11 @@
 
 ![GitHub Snake](https://raw.githubusercontent.com/UltimateStrength/UltimateStrength/refs/heads/output/github-snake-dark.svg)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UltimateStrength/UltimateStrength/output/invaders-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UltimateStrength/UltimateStrength/output/invaders.svg" />
+  <img alt="space invaders contribution grid" src="https://raw.githubusercontent.com/UltimateStrength/UltimateStrength/output/invaders.svg" />
+</picture>
+
+
 </div>
