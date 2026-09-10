@@ -14,7 +14,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       - name: generate space invaders animation
         uses: UltimateStrength/space-invaders-contributions@v0.3.0
@@ -24,7 +24,7 @@ jobs:
             dist/invaders.svg
             dist/invaders-dark.svg?palette=github-dark
 
-      - uses: crazy-max/ghaction-github-pages@v4
+      - uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist
