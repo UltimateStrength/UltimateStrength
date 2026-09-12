@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/dCeqEGx.png" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=transparent&text=>_%20Yo!%20I'm%20Marcos%20aka%20Ulti.%20();&desc=A%20programmer%20and%20coffee%20enthusiast%20in%20his%20spare%20time!%20☕&fontSize=50&section=header&reversal=false&textBg=false&fontColor=ffffff&animation=scaleIn&descSize=15" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=transparent&text=>_%20Yo!%20I'm%20Marcos%20aka%20Ulti.%20();&desc=A%20programmer%20and%20coffee%20enthusiast%20in%20his%20spare%20time!%20☕&fontSize=50&section=header&reversal=false&textBg=false&fontColor=ffffff&animation=scaleIn&descSize=15" width="100%"/>
 
 ```bash
 ultimatestrength@github ~ $ ./maintainer.sh
@@ -144,4 +144,4 @@ ultimatestrength@github ~ $ git log --graph --all
 ultimatestrength@github ~ $ _
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=transparent&section=footer&reversal=false&textBg=false" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=transparent&section=footer&reversal=false&textBg=false" width="100%"/>
