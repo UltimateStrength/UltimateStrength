@@ -17,7 +17,7 @@ jobs:
       - name: Download both themes
         env:
           HANDLE: UltimateStrength
-          URL: https://your-ascii-readme.vercel.app
+          URL: https://ascii-readme-gamma.vercel.app/
         run: |
           curl -fsSL "$URL/$HANDLE?theme=dark" -o dark_mode.svg
           curl -fsSL "$URL/$HANDLE?theme=light" -o light_mode.svg
