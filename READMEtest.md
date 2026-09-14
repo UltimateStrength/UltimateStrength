@@ -1,3 +1,10 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="my GitHub profile" src="dark_mode.svg" />
+</picture>
+
+
 <img src="https://i.imgur.com/dCeqEGx.png" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=transparent&text=>_%20Yo!%20I'm%20Marcos%20aka%20Ulti.%20();&desc=A%20programmer%20and%20coffee%20enthusiast%20in%20his%20spare%20time!%20☕&fontSize=50&section=header&reversal=false&textBg=false&fontColor=ffffff&animation=scaleIn&descSize=15" width="100%"/>
