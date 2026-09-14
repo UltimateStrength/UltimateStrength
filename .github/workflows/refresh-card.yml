@@ -1,0 +1,35 @@
+name: Refresh ascii-readme card
+
+on:
+  schedule:
+    - cron: "17 6 * * *" # Daily at 06:17 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download both themes
+        env:
+          HANDLE: UltimateStrength
+          URL: https://your-ascii-readme.vercel.app
+        run: |
+          curl -fsSL "$URL/$HANDLE?theme=dark" -o dark_mode.svg
+          curl -fsSL "$URL/$HANDLE?theme=light" -o light_mode.svg
+
+      - name: Commit only if the card changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dark_mode.svg light_mode.svg
+          if git diff --cached --quiet; then
+            echo "Card unchanged."
+          else
+            git commit -m "chore: refresh profile card"
+            git push
+          fi
